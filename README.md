@@ -34,6 +34,13 @@ La escena de juego contiene la mesa, la mano del jugador, las cartas y elementos
 - IA local sencilla para jugar cartas y responder o proponer cantos. No es multijugador en línea.
 - Interacción XR para seleccionar cartas y controles de interfaz en la escena.
 
+## Mejoras a futuro
+
+- Implementar partidas en línea para que varias personas puedan jugar desde distintos visores Meta Quest.
+- Mejorar la IA para que tome decisiones más estratégicas y pueda mentir mejor durante las jugadas.
+- Agregar voces y efectos de audio para los cantos, las respuestas y las jugadas.
+- Crear un escenario con mejores recursos visuales y una ambientación más argentina.
+
 ## Estructura principal
 
 ```text
