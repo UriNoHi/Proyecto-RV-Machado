@@ -1,0 +1,21 @@
+{
+  "name": "TrucoVR.Domain.Tests",
+  "rootNamespace": "TrucoVR.Tests",
+  "references": [
+    "TrucoVR.Domain"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "noEngineReferences": true
+}
