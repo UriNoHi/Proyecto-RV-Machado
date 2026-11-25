@@ -1,3 +1,5 @@
+# Presentacion Teorica
+
 # Truco VR
 
 Proyecto de Unity para jugar al **Truco argentino en realidad virtual**, pensado para Meta Quest. La partida se juega en una mesa virtual contra una IA local; las cartas se seleccionan e interactúan en 3D con XR Interaction Toolkit.
